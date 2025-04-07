@@ -16,11 +16,11 @@ Accuracy: CNNs provide high accuracy in classifying whether a person has pneumon
 Model Availability: You can download the trained model and use it for prediction. A Colab notebook with detailed instructions is provided.
 
 Dataset and Tools:
-Dataset: Available [here].
+Dataset: [Available [here].](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
 Model Usability Rating: 8.8/10.
 
-Required Libraries: All necessary libraries and setup instructions are available in the Colab notebook.
+Required Libraries: All necessary libraries and setup instructions are available requirements.txt
 
 By using this model, healthcare providers can expedite the diagnostic process and provide better care to patients in need.
 
